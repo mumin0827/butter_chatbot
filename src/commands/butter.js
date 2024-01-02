@@ -3,7 +3,7 @@ const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('버터야')
-        .setDescription('버터에게 인사해보세요!'),
+        .setDescription('버터를 불러보세요!'),
 
     async execute(interaction) {
         const butterEmbed = new EmbedBuilder()
