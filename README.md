@@ -9,7 +9,7 @@
   <li>🔐 봇 토큰은 '.env' 파일에서 등록을 해주셔야 합니다.</li>
 </ul>
 <br>
-<img src="https://cdn.discordapp.com/attachments/1184054321927700481/1192165133179441324/881dbe6fbc7c5d6cf903eb228d1b272f2a53deb0d5a55d6e52ac5829469a2b40.png?ex=65a8154d&is=6595a04d&hm=452b711a84953b79eaf7f98e5e7c944513517913ac198ce81fcc3b85cc0ae063&" style="max-width: 30%; height: auto;">
+<img alt = 코미와_버터" src = "https://cdn.discordapp.com/attachments/1184054321927700481/1192165133179441324/881dbe6fbc7c5d6cf903eb228d1b272f2a53deb0d5a55d6e52ac5829469a2b40.png?ex=65a8154d&is=6595a04d&hm=452b711a84953b79eaf7f98e5e7c944513517913ac198ce81fcc3b85cc0ae063&" style="max-width: 30%; height: auto;"></img>
 <h5>
   재밌게 사용해주세요!
 </h5>
